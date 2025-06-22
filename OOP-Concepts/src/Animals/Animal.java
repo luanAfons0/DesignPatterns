@@ -37,5 +37,4 @@ public class Animal {
     public void setSound(String newSound){
         this.sound = newSound;
     }
-    
 }

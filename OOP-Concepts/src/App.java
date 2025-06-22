@@ -10,17 +10,16 @@ public class App {
         Dog fido = new Dog();
         fido.setName("Fido");
         System.out.println(fido.getName());
-        System.out.println("-------------------------");
 
         // Polymorphism / Abstraction / Encapsulation
         Animal doggy = new Dog();
         Animal kitty = new Cat();
 
-        Animal animals[] = new Animal[4];
+        Animal animals[] = new Animal[2];
         animals[0] = doggy;
         animals[1] = kitty;
 
-        System.out.println("Dog says: "+ animals[0].getSound());
+        System.out.println("Dog says: " + animals[0].getSound());
         System.out.println("Cat says: " + animals[1].getSound());
 
         speakAnimal(animals[0]);
