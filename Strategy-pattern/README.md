@@ -59,6 +59,6 @@ Each strategy implements a common interface, and the context class (`Flys`) dele
 
 ---
 
-## 🙌 Contributing
+## 📬 Contributing
 
-Suggestions or improvements are welcome! Submit a pull request or open an issue if you'd like to contribute.
+Feel free to fork the repo and submit pull requests with improvements or alternative examples in other languages!
