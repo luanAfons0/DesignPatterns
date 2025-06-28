@@ -44,7 +44,7 @@ Each factory creates products that belong together.
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Strategy-pattern
+   cd DesignPatterns/Abstract-Factory-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
