@@ -45,7 +45,7 @@ Each strategy implements a common interface, and the context class (`Flys`) dele
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Strategy-pattern
+   cd DesignPatterns/Behavioral/Strategy-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
