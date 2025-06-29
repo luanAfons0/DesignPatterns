@@ -49,8 +49,8 @@ We simulate a **Singleton** that ensures that the log is always going to be the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/luanAfons0/DesignPatterns
-   cd Singleton-pattern
+   git clone https://github.com/luanAfons0/DesignPatterns.git
+   cd DesignPatterns/Singleton-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
