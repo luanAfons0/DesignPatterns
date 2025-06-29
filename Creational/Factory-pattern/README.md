@@ -43,7 +43,7 @@ We simulate a **Game** that creates different types of enemies based on input.
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Factory-pattern
+   cd DesignPatterns/Creational/Factory-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
