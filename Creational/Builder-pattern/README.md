@@ -46,7 +46,7 @@ We simulate a **House Builder** that assembles different types of components (e.
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Builder-pattern
+   cd DesignPatterns/Creational/Builder-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
