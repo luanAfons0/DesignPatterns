@@ -49,7 +49,7 @@ We simulate a **Shapes UI** where users can clone existing shapes (like circles 
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Prototype-pattern
+   cd DesignPatterns/Creational/Prototype-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
