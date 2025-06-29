@@ -43,7 +43,7 @@ We simulate a **Store** that notifies branch's (observers) whenever a price is u
 
    ```bash
    git clone https://github.com/luanAfons0/DesignPatterns.git
-   cd DesignPatterns/Observer-pattern
+   cd DesignPatterns/Behavioral/Observer-pattern
    ```
 
 2. Run the code in the project in your preferred IDE.
